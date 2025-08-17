@@ -1,16 +1,16 @@
 # 👋 Hi there, I'm Arpit Kaur
 
-Welcome to my GitHub! Here, you'll find a collection of my projects showcasing my skills in software development. I'm passionate about building efficient solutions and continuously learning new technologies.
+Welcome to my GitHub! Here, you'll find a collection of my projects showcasing my skills in software development and machine learning. I'm passionate about building efficient solutions and continuously learning new technologies.
 
 ---
 
 ## 🔧 Technical Skills
 
 **🧩 Problem Solving & Algorithms**  
-![DSA](https://img.shields.io/badge/DSA-blue) 
-![Optimization](https://img.shields.io/badge/Optimization-brightgreen) 
+![Data Strcuctures](https://img.shields.io/badge/DataStructures-blue) 
+![Algorithms](https://img.shields.io/badge/Algorithms-green) 
 ![Automation](https://img.shields.io/badge/Automation-orange)
-![Optimization](https://img.shields.io/badge/Optimization-orange)
+![Optimization](https://img.shields.io/badge/Optimization-pink)
 
 **💻 Languages and Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
