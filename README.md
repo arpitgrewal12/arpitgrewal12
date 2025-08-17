@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Arpit Kaur
 
-A **versatile and adaptable developer** with experience in **Web Development, Embedded Systems, and Machine Learning**. I'm passionate about building innovative solutions and tackling challenges across different domains.
+A **versatile and adaptable software developer** with experience in **Web Development, Embedded Systems, and Machine Learning**. I'm passionate about building innovative solutions and tackling challenges across different domains.
 
 <a href="https://www.linkedin.com/in/arpitgrewal12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:arpitgrewal12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
