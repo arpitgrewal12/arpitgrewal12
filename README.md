@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arpit Kaur
 
-Welcome to my GitHub! Here, you'll find a collection of my projects showcasing my skills in Python, data science, and software development. I'm passionate about building efficient solutions and continuously learning new technologies.
+Welcome to my GitHub! Here, you'll find a collection of my projects showcasing my skills in software development. I'm passionate about building efficient solutions and continuously learning new technologies.
 
 ---
 
