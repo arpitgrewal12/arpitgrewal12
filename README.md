@@ -54,7 +54,8 @@ Welcome to my GitHub! Here, you'll find a collection of my projects showcasing m
 | Drupal          | Jira                   |
 | WebSocket       | VS Code, PyCharm       |
 
-### 🚀 Tech Stack 
+### 🚀 Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,postgres" />
 </p>
@@ -67,11 +68,9 @@ Welcome to my GitHub! Here, you'll find a collection of my projects showcasing m
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode,pycharm,bootstrap" />
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bigquery,powerbi,jira" />
-</p>
 
----
+### 🛠️ More Skills in Progress
+✨ Continuously learning new tools and technologies
 
 ## 📌 Featured Projects
 
