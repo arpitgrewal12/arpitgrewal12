@@ -4,9 +4,10 @@
 
 A **versatile and adaptable software developer** with experience in **Web Development, Embedded Systems, and Machine Learning**. I'm passionate about building innovative solutions and tackling challenges across different domains.
 
-<a href="https://www.linkedin.com/in/arpitgrewal12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/arpit-kaur-ap12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/arpitgrewal12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://arpitgrewal12.github.io"><img src="https://img.shields.io/badge/Portfolio-282a36?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:arpitgrewal12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://arpitgrewal12.github.io/"><img src="https://img.shields.io/badge/Portfolio-282a36?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
